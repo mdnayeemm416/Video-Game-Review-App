@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329015254974",
+    "project_id": "barcode-scanner-5a50f",
+    "storage_bucket": "barcode-scanner-5a50f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329015254974:android:6d0391bb3c164fe07c63ef",
+        "android_client_info": {
+          "package_name": "com.example.videogame_review_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329015254974-19jq5hegf5jmi4uae6lr5a9apres9ing.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpyZDYWVahA5ahEWSCVXTLiIsEZgQmips"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329015254974-19jq5hegf5jmi4uae6lr5a9apres9ing.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
